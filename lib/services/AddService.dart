@@ -14,7 +14,7 @@ class Addservice {
   }) async {
     try {
       // Crée un objet de données pour le vêtement
-      final clothingItem = {
+      final clothes = {
         'titre': titre,
         'marque': marque,
         'taille': taille,
@@ -25,7 +25,7 @@ class Addservice {
       };
 
       // Envoie les données dans la collection Firestore
-      await _firestore.collection('clothingItems').add(clothingItem);
+      await _firestore.collection('clothes').add(clothes);
       print("Vêtement ajouté avec succès !");
     } catch (e) {
       print("Erreur lors de l'ajout : $e");
