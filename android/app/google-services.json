@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79939892171",
+    "project_id": "store21-edf31",
+    "storage_bucket": "store21-edf31.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79939892171:android:397c1453437998036d7c4e",
+        "android_client_info": {
+          "package_name": "com.example.flutt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo_MO2UFeeQaWA3MY4Lb2IpYqKnYlied0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

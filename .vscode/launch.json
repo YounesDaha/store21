@@ -1,0 +1,12 @@
+{
+    "configurations": [
+    
+        {
+            "name": "flutter_application_2 (Flutter Chrome)",
+            "program": "lib/main.dart",
+            "deviceId": "chrome",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
